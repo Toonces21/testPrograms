@@ -1,3 +1,6 @@
+//adder.c
+//Simple program testing a function pointer.
+
 #include<stdio.h>
 
 typedef struct adder{
